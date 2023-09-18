@@ -8,10 +8,10 @@ Currently working on a ML model to tackle Mentak Health related issues for an up
 
 I love to join different communities and contribute to the open source society!
 
-<span style="font-size: 24px; font-weight: bold;">##SKills: </span>  
+##SKills:   
 AI and ML Development | Android | Web Development 
 
-<span style="font-size: 24px; font-weight: bold;">##Tools:  </span>  
+##Tools:  
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css)](https://skillicons.dev)
 
     +🔭 I’m currently working on this page.
