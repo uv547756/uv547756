@@ -9,13 +9,13 @@ I love to join different communities and contribute to the open source society!
 <span style="font-size: 24px; font-weight: bold;">SKills: 
 AI and ML Development | Android | Web Development 
 
-<span style="font-size: 24px; font-weight: bold;">Tools: 
+<span style="font-size: 24px; font-weight: bold;">Tools:  
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css)](https://skillicons.dev)
 
     +🔭 I’m currently working on this page.
     +🌱 I’m currently learning Machine Learning through Python.
     +👯 I’m looking to collaborate on various AI and AOSP projects.
-    +🤔 I’m looking for help with Deep Learning and PyTorch
+    +🤔 I’m looking for help with Deep Learning and PyTorch.  
 [![My Skills](https://skillicons.dev/icons?i=linkedin,github,instagram,twitter)](https://skillicons.dev)
    <!-- +📫 How to reach me: -->
 <!--
