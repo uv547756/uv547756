@@ -1,4 +1,6 @@
-### Hi there!👋 My name is Komi, I am a college student taking BTech Computer Science. 🏫
+### Hi there👋, Welcome!
+
+My name is **Komi**, I am a college student taking BTech Computer Science. 🏫
 
 I have a huge interest in Artificial Intelligence as well as AOSP and the coding involved! Currently studying Python, C/C++ and DSA.
 
@@ -6,10 +8,10 @@ Currently working on a ML model to tackle Mentak Health related issues for an up
 
 I love to join different communities and contribute to the open source society!
 
-<span style="font-size: 24px; font-weight: bold;">SKills: 
+<span style="font-size: 24px; font-weight: bold;">SKills: </span>
 AI and ML Development | Android | Web Development 
 
-<span style="font-size: 24px; font-weight: bold;">Tools:  
+<span style="font-size: 24px; font-weight: bold;">Tools:  </span>
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css)](https://skillicons.dev)
 
     +🔭 I’m currently working on this page.
