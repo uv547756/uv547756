@@ -1,6 +1,6 @@
 ### Hi there👋, Welcome!
 
-My name is **Komi**, I am a college student taking BTech Computer Science. 🏫
+My name is **Utkarsh**, I am a college student taking BTech Computer Science. 🏫
 
 I have a huge interest in Artificial Intelligence as well as AOSP and the coding involved! Currently studying Python, C/C++ and DSA.
 
