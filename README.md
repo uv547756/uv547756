@@ -2,9 +2,9 @@
 
 My name is **Utkarsh**, I am a college student taking BTech Computer Science. 🏫
 
-I have a huge interest in Artificial Intelligence as well as AOSP and the coding involved! Currently studying Python, C/C++ and DSA.
+I have a huge interest in Artificial Intelligence as well as AOSP! Currently studying Python, C/C++ and DSA.
 
-Currently working on a ML model to tackle Mentak Health related issues for an upcoming hackathon.
+Currently working on an NLP based Language Translating model for an upcoming hackathon.
 
 I love to join different communities and contribute to the open source society!
 
