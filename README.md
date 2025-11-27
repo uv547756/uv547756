@@ -1,37 +1,29 @@
-### Hi there👋, Welcome!
+# Hi there, I'm Utkarsh 👋
 
-My name is **Utkarsh**, I am a college student taking BTech Computer Science. 🏫
+### 🎓 About Me
+BTech Computer Science student with a passion for building intelligent systems and contributing to open source. I believe in learning by doing and love exploring new technologies.
 
-I have a huge interest in Artificial Intelligence but I love to tinker with open source tech! Currently studying Javascript and Web Development and burshing up my DSA skills.
+### 🚀 What I'm Up To
+- 🤖 Building my own LLM implementation for my portfolio website
+- 💻 Deepening my knowledge in JavaScript and modern web development
+- 📊 Sharpening my Data Structures & Algorithms skills
+- 🌐 Actively contributing to open source communities
 
-Currently working on implementing my own LLM for my future portifolio website.
+### 💡 Interests
+- **Artificial Intelligence** - Exploring the frontiers of machine learning and neural networks
+- **Open Source** - Contributing to projects that make a difference
+- **Web Development** - Creating intuitive and powerful web experiences
 
-I love to join different communities and contribute to the open source society!
+### 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css,js)](https://skillicons.dev)
 
+### 🏆 GitHub Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=uv547756&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Tools:  
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css)](https://skillicons.dev)
+### 🤝 Let's Connect
+I'm always excited to collaborate on AI projects, contribute to open source, or just chat about tech!
 
-<!--
--    🔭 I’m currently working on this page.
--    🌱 I’m currently learning Deep Learning.
--    👯 I’m looking to collaborate on various AI and AOSP projects.
--    🤔 I’m looking for help with Deep Learning and PyTorch.
--->
-  
-[![My Skills](https://skillicons.dev/icons?i=linkedin,github,instagram,twitter)](https://skillicons.dev)
-   <!-- +📫 How to reach me: -->
-<!--
-**uv547756/uv547756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Connect with me](https://skillicons.dev/icons?i=linkedin,github,twitter)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+💬 *Feel free to explore my repositories and reach out if you'd like to collaborate!*
