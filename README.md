@@ -25,5 +25,7 @@ I'm always excited to collaborate on AI projects, contribute to open source, or 
 
 [![Connect with me](https://skillicons.dev/icons?i=linkedin,github,twitter)](https://skillicons.dev)
 
+![](https://komarev.com/ghpvc/?username=uv547756&style=for-the-badge)
+
 ---
 💬 *Feel free to explore my repositories and reach out if you'd like to collaborate!*
